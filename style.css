@@ -1,9 +1,12 @@
 * {
-   background-color: rgb(255, 245, 159);
+   /* background-color: rgb(255, 245, 159); */
    text-align: center;
    /* border: solid; */
    /* width: 80%;
    margin: auto; */
+}
+body {
+   background-color: rgb(255, 245, 159);
 }
 
 h1, h2, h3 {
@@ -19,6 +22,14 @@ img {
    max-width: 300px;
    max-height: 300px;
    border-radius: 20px;
+}
+
+button {
+   padding: 0.6rem;
+   margin: 1rem;
+   background-color: goldenrod;
+   font-size: 1.5rem;
+   color: black;
 }
 
 p {
@@ -40,6 +51,7 @@ li {
    text-align: left;
    background-color: transparent;
 }
+
 
 .list {
    max-width: fit-content;

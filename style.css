@@ -1,6 +1,9 @@
 * {
    background-color: rgb(255, 245, 159);
    text-align: center;
+   /* border: solid; */
+   /* width: 80%;
+   margin: auto; */
 }
 
 h1, h2, h3 {
@@ -44,4 +47,15 @@ li {
    margin: auto;
    border-style: double;
    background-color: rgb(223, 219, 226);
+}
+
+.sobrescreve {
+   font-size: 2rem;
+   text-shadow: 5px 5px rgb(197, 190, 180);
+
+   background-color: rgb(253, 203, 203);
+   width:fit-content;
+   margin: auto;
+   padding: 10px;
+   margin-top: -1.5rem;
 }
